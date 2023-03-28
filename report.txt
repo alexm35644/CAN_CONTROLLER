@@ -1,0 +1,43 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J1:'.
+Info: Processing symbol 'U1:SOIC14_150MIL_SL_MCH'.
+Info: Processing symbol 'Y1:Breakout_library:HC-49US'.
+Updated C1 symbol association from  to /82711fa7-d45b-4544-9955-2fcdc6f9e912.
+Updated C1 properties.
+Add net GND.
+Connected C1 pin 1 to GND.
+Add net +3.3V.
+Connected C1 pin 2 to +3.3V.
+Added C2 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0402_1005Metric to 22pF.
+Updated C2 symbol association from  to /8fd16ffa-6604-41a4-84cb-68e21fd1bcfb.
+Updated C2 properties.
+Connected C2 pin 1 to GND.
+Add net Net-(C2-Pad2).
+Connected C2 pin 2 to Net-(C2-Pad2).
+Added C3 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0402_1005Metric to 22pF.
+Updated C3 symbol association from  to /8372c76c-658b-4d8b-a13c-3f892e197def.
+Updated C3 properties.
+Connected C3 pin 1 to GND.
+Add net Net-(C3-Pad2).
+Connected C3 pin 2 to Net-(C3-Pad2).
+Added C1 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C1.
+Changed C1 value from C_0402_1005Metric to 0.1uF.
+Added Y1 (footprint 'Breakout_library:HC-49US').
+Changed Y reference designator to Y1.
+Changed Y1 value from HC-49US to 4 MHz.
+Updated Y1 symbol association from  to /c8bf4ade-353d-4ae6-937e-6784bc6b8046.
+Updated Y1 properties.
+Connected Y1 pin 1 to Net-(C3-Pad2).
+Connected Y1 pin 2 to Net-(C2-Pad2).
+Error: Cannot add J1 (no footprint assigned).
+Error: Cannot add U1 (footprint 'SOIC14_150MIL_SL_MCH' not found).
+
+
+Info: Total warnings: 0, errors: 2.
